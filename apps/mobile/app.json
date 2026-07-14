@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "InternHub",
+    "slug": "internhub",
+    "version": "1.0.0",
+    "scheme": "internhub",
+    "ios": {
+      "bundleIdentifier": "com.yourname.internhub",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourname.internhub",
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
